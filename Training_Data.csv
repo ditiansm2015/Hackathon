@@ -1,11 +1,13 @@
-;Variable ;Description;;;;
-;row_id;Unique identifier of the row;;;;
-;user_id;Unique identifier of the user;;;;
-;category_id;Category of the video;;;;
-;video_id;Unique identifier of the video;;;;
-;age;Age of the user;;;;
-;gender;Gender of the user;;;;
-;profession;Profession of the user;;;;
-;followers;No. of users following a particular category;;;;
-;views;Total views of the videos present in the particular category;;;;
-;engagement_score;Engagement score of the video for a user;;;;
+Variables	Description
+Item_Identifier	Unique product ID
+Item_Weight	Weight of product
+Item_Fat_Content	Whether the product is low fat or not
+Item_Visibility	The % of total display area of all product in a store allocated to the particular product
+Item_Type	The category to which the product belongs
+Item_MRP	Maximum Retail Price(list price) of the product
+Outlet_Identifier	Unique store ID
+Item_Establishment_Year	The year in which store was established
+Outlet_Size	The size of the store in terms of ground area
+Outlet_Location_Type	The type of city in which the store is located
+Outlet_Type	Whether the outlet is just a grocery store or some sort of super market
+Item_Outlet_Sales	Sales of the product in the particular store. This is the outcome variable to be predicted
