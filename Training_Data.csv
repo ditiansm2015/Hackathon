@@ -4,8 +4,8 @@
 ;category_id;Category of the video;;;;
 ;video_id;Unique identifier of the video;;;;
 ;age;Age of the user;;;;
-;gender;Gender of the user (Male and Female);;;;
-;profession;Profession of the user (Student, Working Professional, Other);;;;
+;gender;Gender of the user;;;;
+;profession;Profession of the user;;;;
 ;followers;No. of users following a particular category;;;;
 ;views;Total views of the videos present in the particular category;;;;
 ;engagement_score;Engagement score of the video for a user;;;;
